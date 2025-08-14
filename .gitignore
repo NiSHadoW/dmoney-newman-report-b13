@@ -1,0 +1,6 @@
+collection
+node_modules
+Reports
+.env
+env.json
+package-lock.json
