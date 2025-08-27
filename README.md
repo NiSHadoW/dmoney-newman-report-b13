@@ -18,7 +18,6 @@ https://documenter.getpostman.com/view/47007261/2sB3HewQb3
 # Report
 <img width="621" height="627" alt="image" src="https://github.com/user-attachments/assets/b88e1374-e187-4cce-8596-db352ee4e7fa" />
 
-# Total Requests
 <img width="833" height="634" alt="image" src="https://github.com/user-attachments/assets/70d1f10e-e03a-4673-b152-710b7a1ced1c" />
 
 
